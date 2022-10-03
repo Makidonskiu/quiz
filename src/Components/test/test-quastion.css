@@ -1,0 +1,28 @@
+.test-quation{
+    text-align: center;
+    padding: 20px;
+}
+
+.progress{
+    background-color: rgb(235, 210, 178);
+    border-radius: 5px;
+}
+
+.gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(252deg, rgba(2,0,36,1) 0%, rgba(17,121,9,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 5px;
+    height: 10px;
+}
+
+.progress-p{
+    border : 1px solid black;
+    border-radius: 15px;
+    max-width: 400px;
+    margin: 12px auto;
+    cursor: pointer;
+}
+
+.progress-p:hover{
+background-color: rgb(242, 255, 121);
+}
