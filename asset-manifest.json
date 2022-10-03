@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Makidonskiu/quiz.git/static/css/main.af5cd67b.css",
-    "main.js": "/Makidonskiu/quiz.git/static/js/main.c409462d.js",
-    "index.html": "/Makidonskiu/quiz.git/index.html",
-    "main.af5cd67b.css.map": "/Makidonskiu/quiz.git/static/css/main.af5cd67b.css.map",
-    "main.c409462d.js.map": "/Makidonskiu/quiz.git/static/js/main.c409462d.js.map"
+    "main.css": "/quiz/static/css/main.af5cd67b.css",
+    "main.js": "/quiz/static/js/main.c409462d.js",
+    "index.html": "/quiz/index.html",
+    "main.af5cd67b.css.map": "/quiz/static/css/main.af5cd67b.css.map",
+    "main.c409462d.js.map": "/quiz/static/js/main.c409462d.js.map"
   },
   "entrypoints": [
     "static/css/main.af5cd67b.css",
